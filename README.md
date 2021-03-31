@@ -23,5 +23,7 @@ Edit configuration file `config.ini`.
 Run a command
 ```sh
 ./notifier.sh
-```
+```  
+You can use supervisor to start this script  
+
 
